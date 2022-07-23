@@ -1,0 +1,17 @@
+{
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "dev",
+  "workspaceFolder": "/workspaces/dev",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "editorconfig.editorconfig",
+        "github.github-vscode-theme",
+        "ms-azuretools.vscode-docker",
+        "redhat.vscode-yaml",
+        "visualstudioexptteam.vscodeintellicode"
+      ]
+    }
+  }
+  // forwardPorts here
+}
